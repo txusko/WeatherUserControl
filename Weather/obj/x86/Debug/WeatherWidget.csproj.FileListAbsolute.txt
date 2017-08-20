@@ -1,0 +1,7 @@
+c:\users\javi.filella\documents\visual studio 2010\Projects\Weather\Weather\bin\Debug\Weather.exe
+c:\users\javi.filella\documents\visual studio 2010\Projects\Weather\Weather\bin\Debug\Weather.pdb
+c:\users\javi.filella\documents\visual studio 2010\Projects\Weather\Weather\obj\x86\Debug\Weather.FormWeather.resources
+c:\users\javi.filella\documents\visual studio 2010\Projects\Weather\Weather\obj\x86\Debug\Weather.Properties.Resources.resources
+c:\users\javi.filella\documents\visual studio 2010\Projects\Weather\Weather\obj\x86\Debug\WeatherWidget.csproj.GenerateResource.Cache
+c:\users\javi.filella\documents\visual studio 2010\Projects\Weather\Weather\obj\x86\Debug\Weather.exe
+c:\users\javi.filella\documents\visual studio 2010\Projects\Weather\Weather\obj\x86\Debug\Weather.pdb

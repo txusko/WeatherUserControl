@@ -1,0 +1,13 @@
+C:\Users\javi.filella\Documents\Visual Studio 2010\Projects\YahooWeatherPlugin\Weather\obj\x86\Debug\WeatherUserControlPlugin.Form1.resources
+C:\Users\javi.filella\Documents\Visual Studio 2010\Projects\YahooWeatherPlugin\Weather\obj\x86\Debug\WeatherUserControlPlugin.WeatherUserControl.resources
+C:\Users\javi.filella\Documents\Visual Studio 2010\Projects\YahooWeatherPlugin\Weather\obj\x86\Debug\WeatherUserControlPlugin.csproj.GenerateResource.Cache
+C:\Users\javi.filella\Documents\Visual Studio 2010\Projects\YahooWeatherPlugin\Weather\obj\x86\Debug\WeatherUserControlPlugin.Properties.Resources.resources
+C:\Users\javi.filella\Documents\Visual Studio 2010\Projects\YahooWeatherPlugin\Weather\bin\Debug\WeatherUserControlPlugin.exe
+C:\Users\javi.filella\Documents\Visual Studio 2010\Projects\YahooWeatherPlugin\Weather\bin\Debug\WeatherUserControlPlugin.pdb
+C:\Users\javi.filella\Documents\Visual Studio 2010\Projects\YahooWeatherPlugin\Weather\obj\x86\Debug\WeatherUserControlPlugin.exe
+C:\Users\javi.filella\Documents\Visual Studio 2010\Projects\YahooWeatherPlugin\Weather\obj\x86\Debug\WeatherUserControlPlugin.pdb
+C:\Users\javi.filella\Documents\Visual Studio 2010\Projects\YahooWeatherPlugin\Weather\obj\x86\Debug\WeatherUserControlPlugin.csprojResolveAssemblyReference.cache
+C:\Users\javi.filella\Documents\Visual Studio 2010\Projects\WeatherUserControl\Weather\obj\x86\Debug\WeatherUserControlPlugin.exe
+C:\Users\javi.filella\Documents\Visual Studio 2010\Projects\WeatherUserControl\Weather\obj\x86\Debug\WeatherUserControlPlugin.pdb
+C:\Users\javi.filella\Documents\GitHub\WeatherUserControl\Weather\obj\x86\Debug\WeatherUserControlPlugin.exe
+C:\Users\javi.filella\Documents\GitHub\WeatherUserControl\Weather\obj\x86\Debug\WeatherUserControlPlugin.pdb
